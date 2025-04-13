@@ -42,6 +42,7 @@
 			children = (
 				1E882A0B2DAC03500031CB08 /* SeismicDemo */,
 				1E882A0A2DAC03500031CB08 /* Products */,
+				1E882A202DAC044C0031CB08 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -65,6 +66,13 @@
 				1E882A1A2DAC03520031CB08 /* Info.plist */,
 			);
 			path = SeismicDemo;
+			sourceTree = "<group>";
+		};
+		1E882A202DAC044C0031CB08 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
